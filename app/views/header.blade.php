@@ -20,10 +20,10 @@
         <div class="col-md-4 col-sm-4">
             <!-- Social media links -->
             <div class="social">
-                <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
-                <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-                <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-                <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+                <a href="https://www.facebook.com/scott.a.fillman" class="facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+                <a href="https://twitter.com/degagius" class="twitter" target="_blank"><i class="fa fa-twitter"></i></a>
+                <a href="https://twitter.com/degagius" class="google-plus" target="_blank"><i class="fa fa-google-plus"></i></a>
+                <a href="http://www.linkedin.com/in/scottfillman" class="linkedin" target="_blank"><i class="fa fa-linkedin"></i></a>
             </div>
         </div>
     </div>

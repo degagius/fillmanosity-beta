@@ -3,7 +3,7 @@
     <div class="col-md-4">
         <!-- First column Box -->
         <div class="box">
-            <div class="small-box half-width br-blue pull-left box-link">
+            <div class="medium-box half-width br-blue pull-left box-link">
                 <div class="pad">
                     <!-- link to other page -->
                     <a href="/about">
@@ -28,10 +28,10 @@
         <!-- Second column Box -->
         <div class="box">
             <!-- Small size box width 50% -->
-            <div class="small-box half-width br-green pull-left box-link">
+            <div class="medium-box half-width br-green pull-left box-link">
                 <div class="pad">
                     <!-- Link to other page -->
-                    <a href="/service">
+                    <a href="/services">
                         <i class="fa fa-gears"></i>
                         <h5>Services</h5>
                     </a>
@@ -52,7 +52,7 @@
     <div class="col-md-4">
         <!-- Third column Box -->
         <div class="box">
-            <div class="small-box half-width br-pink pull-left box-link">
+            <div class="medium-box half-width br-pink pull-left box-link">
                 <div class="pad">
                     <!-- Link to other page -->
                     <a href="/login">

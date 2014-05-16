@@ -27,3 +27,23 @@ Route::get('login', function()
 {
     return View::make('login');
 });
+
+Route::get('about', function()
+{
+    return View::make('about');
+});
+
+Route::get('services', function()
+{
+    return View::make('services');
+});
+
+Route::get('portfolio', function()
+{
+    return View::make('portfolio');
+});
+
+Route::get('contact', function()
+{
+    return View::make('contact');
+});

@@ -55,8 +55,8 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'fillmanosity_db',
-			'username'  => 'fillmanosity_db',
+			'database'  => 'fillmano_fsty',
+			'username'  => 'fillmano_db_fbet',
 			'password'  => 'xoxll135',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
